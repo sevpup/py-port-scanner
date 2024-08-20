@@ -30,6 +30,9 @@ Input the hostname or IP address of the remote server to scan.
 The port scanner performs the following:
 
 Clear Screen: Clears the terminal before starting the scan.
+
 Get Remote Host: Prompts the user for a hostname or IP address and resolves it to an IP.
+
 Scan Ports: Iterates through the specified range of ports and checks if they are open.
+
 Service Identification: Attempts to map open ports to their associated services.
