@@ -10,6 +10,7 @@ Uses a range of ports from 1 to 65535 by default.
 
 **Prerequisites**
 Python 3.x
+
 Socket and subprocess libraries (both are part of the Python standard library)
 
 **How to Run**
