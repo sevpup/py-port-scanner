@@ -15,7 +15,7 @@ Socket and subprocess libraries (both are part of the Python standard library)
 **How to Run**
 
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/sevpup/port-scanner.git
 
 Navigate to the project directory: 
 cd port-scanner
