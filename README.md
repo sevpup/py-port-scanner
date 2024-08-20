@@ -26,6 +26,7 @@ python3 port_scanner.py
 Input the hostname or IP address of the remote server to scan.
 
 **Code Overview**
+
 The port scanner performs the following:
 
 Clear Screen: Clears the terminal before starting the scan.
